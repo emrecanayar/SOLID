@@ -1,0 +1,15 @@
+C:\Users\Emre Can Ayar\Desktop\Emre Can Ayar\SOLID\SOLID\SingleResponsiblityPrinciple\bin\Debug\net7.0\SingleResponsiblityPrinciple.exe
+C:\Users\Emre Can Ayar\Desktop\Emre Can Ayar\SOLID\SOLID\SingleResponsiblityPrinciple\bin\Debug\net7.0\SingleResponsiblityPrinciple.deps.json
+C:\Users\Emre Can Ayar\Desktop\Emre Can Ayar\SOLID\SOLID\SingleResponsiblityPrinciple\bin\Debug\net7.0\SingleResponsiblityPrinciple.runtimeconfig.json
+C:\Users\Emre Can Ayar\Desktop\Emre Can Ayar\SOLID\SOLID\SingleResponsiblityPrinciple\bin\Debug\net7.0\SingleResponsiblityPrinciple.dll
+C:\Users\Emre Can Ayar\Desktop\Emre Can Ayar\SOLID\SOLID\SingleResponsiblityPrinciple\bin\Debug\net7.0\SingleResponsiblityPrinciple.pdb
+C:\Users\Emre Can Ayar\Desktop\Emre Can Ayar\SOLID\SOLID\SingleResponsiblityPrinciple\obj\Debug\net7.0\SingleResponsiblityPrinciple.csproj.AssemblyReference.cache
+C:\Users\Emre Can Ayar\Desktop\Emre Can Ayar\SOLID\SOLID\SingleResponsiblityPrinciple\obj\Debug\net7.0\SingleResponsiblityPrinciple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emre Can Ayar\Desktop\Emre Can Ayar\SOLID\SOLID\SingleResponsiblityPrinciple\obj\Debug\net7.0\SingleResponsiblityPrinciple.AssemblyInfoInputs.cache
+C:\Users\Emre Can Ayar\Desktop\Emre Can Ayar\SOLID\SOLID\SingleResponsiblityPrinciple\obj\Debug\net7.0\SingleResponsiblityPrinciple.AssemblyInfo.cs
+C:\Users\Emre Can Ayar\Desktop\Emre Can Ayar\SOLID\SOLID\SingleResponsiblityPrinciple\obj\Debug\net7.0\SingleResponsiblityPrinciple.csproj.CoreCompileInputs.cache
+C:\Users\Emre Can Ayar\Desktop\Emre Can Ayar\SOLID\SOLID\SingleResponsiblityPrinciple\obj\Debug\net7.0\SingleResponsiblityPrinciple.dll
+C:\Users\Emre Can Ayar\Desktop\Emre Can Ayar\SOLID\SOLID\SingleResponsiblityPrinciple\obj\Debug\net7.0\refint\SingleResponsiblityPrinciple.dll
+C:\Users\Emre Can Ayar\Desktop\Emre Can Ayar\SOLID\SOLID\SingleResponsiblityPrinciple\obj\Debug\net7.0\SingleResponsiblityPrinciple.pdb
+C:\Users\Emre Can Ayar\Desktop\Emre Can Ayar\SOLID\SOLID\SingleResponsiblityPrinciple\obj\Debug\net7.0\SingleResponsiblityPrinciple.genruntimeconfig.cache
+C:\Users\Emre Can Ayar\Desktop\Emre Can Ayar\SOLID\SOLID\SingleResponsiblityPrinciple\obj\Debug\net7.0\ref\SingleResponsiblityPrinciple.dll

@@ -1,0 +1,15 @@
+C:\Users\Emre Can Ayar\Desktop\Emre Can Ayar\SOLID\SOLID\InterfaceSegregationPrinciple\bin\Debug\net7.0\InterfaceSegregationPrinciple.exe
+C:\Users\Emre Can Ayar\Desktop\Emre Can Ayar\SOLID\SOLID\InterfaceSegregationPrinciple\bin\Debug\net7.0\InterfaceSegregationPrinciple.deps.json
+C:\Users\Emre Can Ayar\Desktop\Emre Can Ayar\SOLID\SOLID\InterfaceSegregationPrinciple\bin\Debug\net7.0\InterfaceSegregationPrinciple.runtimeconfig.json
+C:\Users\Emre Can Ayar\Desktop\Emre Can Ayar\SOLID\SOLID\InterfaceSegregationPrinciple\bin\Debug\net7.0\InterfaceSegregationPrinciple.dll
+C:\Users\Emre Can Ayar\Desktop\Emre Can Ayar\SOLID\SOLID\InterfaceSegregationPrinciple\bin\Debug\net7.0\InterfaceSegregationPrinciple.pdb
+C:\Users\Emre Can Ayar\Desktop\Emre Can Ayar\SOLID\SOLID\InterfaceSegregationPrinciple\obj\Debug\net7.0\InterfaceSegregationPrinciple.csproj.AssemblyReference.cache
+C:\Users\Emre Can Ayar\Desktop\Emre Can Ayar\SOLID\SOLID\InterfaceSegregationPrinciple\obj\Debug\net7.0\InterfaceSegregationPrinciple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emre Can Ayar\Desktop\Emre Can Ayar\SOLID\SOLID\InterfaceSegregationPrinciple\obj\Debug\net7.0\InterfaceSegregationPrinciple.AssemblyInfoInputs.cache
+C:\Users\Emre Can Ayar\Desktop\Emre Can Ayar\SOLID\SOLID\InterfaceSegregationPrinciple\obj\Debug\net7.0\InterfaceSegregationPrinciple.AssemblyInfo.cs
+C:\Users\Emre Can Ayar\Desktop\Emre Can Ayar\SOLID\SOLID\InterfaceSegregationPrinciple\obj\Debug\net7.0\InterfaceSegregationPrinciple.csproj.CoreCompileInputs.cache
+C:\Users\Emre Can Ayar\Desktop\Emre Can Ayar\SOLID\SOLID\InterfaceSegregationPrinciple\obj\Debug\net7.0\InterfaceSegregationPrinciple.dll
+C:\Users\Emre Can Ayar\Desktop\Emre Can Ayar\SOLID\SOLID\InterfaceSegregationPrinciple\obj\Debug\net7.0\refint\InterfaceSegregationPrinciple.dll
+C:\Users\Emre Can Ayar\Desktop\Emre Can Ayar\SOLID\SOLID\InterfaceSegregationPrinciple\obj\Debug\net7.0\InterfaceSegregationPrinciple.pdb
+C:\Users\Emre Can Ayar\Desktop\Emre Can Ayar\SOLID\SOLID\InterfaceSegregationPrinciple\obj\Debug\net7.0\InterfaceSegregationPrinciple.genruntimeconfig.cache
+C:\Users\Emre Can Ayar\Desktop\Emre Can Ayar\SOLID\SOLID\InterfaceSegregationPrinciple\obj\Debug\net7.0\ref\InterfaceSegregationPrinciple.dll

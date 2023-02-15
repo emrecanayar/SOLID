@@ -7,7 +7,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SingleResponsiblityPrincipl
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OpenClosedPrinciple", "OpenClosedPrinciple\OpenClosedPrinciple.csproj", "{6EC0756F-500F-4A49-86DD-379177E5A462}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LiskovSubstitutionPrinciple", "LiskovSubstitutionPrinciple\LiskovSubstitutionPrinciple.csproj", "{75319605-B6FC-4BC5-9C1F-70EDF978FED7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LiskovSubstitutionPrinciple", "LiskovSubstitutionPrinciple\LiskovSubstitutionPrinciple.csproj", "{75319605-B6FC-4BC5-9C1F-70EDF978FED7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfaceSegregationPrinciple", "InterfaceSegregationPrinciple\InterfaceSegregationPrinciple.csproj", "{25BA0272-7BA6-4F29-931A-A8AF68DF9DB2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DependencyInversionPrinciple", "DependencyInversionPrinciple\DependencyInversionPrinciple.csproj", "{36188A31-875B-4817-8359-6396A6588663}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +31,14 @@ Global
 		{75319605-B6FC-4BC5-9C1F-70EDF978FED7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{75319605-B6FC-4BC5-9C1F-70EDF978FED7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{75319605-B6FC-4BC5-9C1F-70EDF978FED7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{25BA0272-7BA6-4F29-931A-A8AF68DF9DB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25BA0272-7BA6-4F29-931A-A8AF68DF9DB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25BA0272-7BA6-4F29-931A-A8AF68DF9DB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25BA0272-7BA6-4F29-931A-A8AF68DF9DB2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36188A31-875B-4817-8359-6396A6588663}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36188A31-875B-4817-8359-6396A6588663}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36188A31-875B-4817-8359-6396A6588663}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36188A31-875B-4817-8359-6396A6588663}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

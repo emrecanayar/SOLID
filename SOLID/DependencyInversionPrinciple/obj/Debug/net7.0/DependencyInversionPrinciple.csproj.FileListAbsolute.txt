@@ -1,0 +1,15 @@
+C:\Users\Emre Can Ayar\Desktop\Emre Can Ayar\SOLID\SOLID\DependencyInversionPrinciple\bin\Debug\net7.0\DependencyInversionPrinciple.exe
+C:\Users\Emre Can Ayar\Desktop\Emre Can Ayar\SOLID\SOLID\DependencyInversionPrinciple\bin\Debug\net7.0\DependencyInversionPrinciple.deps.json
+C:\Users\Emre Can Ayar\Desktop\Emre Can Ayar\SOLID\SOLID\DependencyInversionPrinciple\bin\Debug\net7.0\DependencyInversionPrinciple.runtimeconfig.json
+C:\Users\Emre Can Ayar\Desktop\Emre Can Ayar\SOLID\SOLID\DependencyInversionPrinciple\bin\Debug\net7.0\DependencyInversionPrinciple.dll
+C:\Users\Emre Can Ayar\Desktop\Emre Can Ayar\SOLID\SOLID\DependencyInversionPrinciple\bin\Debug\net7.0\DependencyInversionPrinciple.pdb
+C:\Users\Emre Can Ayar\Desktop\Emre Can Ayar\SOLID\SOLID\DependencyInversionPrinciple\obj\Debug\net7.0\DependencyInversionPrinciple.csproj.AssemblyReference.cache
+C:\Users\Emre Can Ayar\Desktop\Emre Can Ayar\SOLID\SOLID\DependencyInversionPrinciple\obj\Debug\net7.0\DependencyInversionPrinciple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emre Can Ayar\Desktop\Emre Can Ayar\SOLID\SOLID\DependencyInversionPrinciple\obj\Debug\net7.0\DependencyInversionPrinciple.AssemblyInfoInputs.cache
+C:\Users\Emre Can Ayar\Desktop\Emre Can Ayar\SOLID\SOLID\DependencyInversionPrinciple\obj\Debug\net7.0\DependencyInversionPrinciple.AssemblyInfo.cs
+C:\Users\Emre Can Ayar\Desktop\Emre Can Ayar\SOLID\SOLID\DependencyInversionPrinciple\obj\Debug\net7.0\DependencyInversionPrinciple.csproj.CoreCompileInputs.cache
+C:\Users\Emre Can Ayar\Desktop\Emre Can Ayar\SOLID\SOLID\DependencyInversionPrinciple\obj\Debug\net7.0\DependencyInversionPrinciple.dll
+C:\Users\Emre Can Ayar\Desktop\Emre Can Ayar\SOLID\SOLID\DependencyInversionPrinciple\obj\Debug\net7.0\refint\DependencyInversionPrinciple.dll
+C:\Users\Emre Can Ayar\Desktop\Emre Can Ayar\SOLID\SOLID\DependencyInversionPrinciple\obj\Debug\net7.0\DependencyInversionPrinciple.pdb
+C:\Users\Emre Can Ayar\Desktop\Emre Can Ayar\SOLID\SOLID\DependencyInversionPrinciple\obj\Debug\net7.0\DependencyInversionPrinciple.genruntimeconfig.cache
+C:\Users\Emre Can Ayar\Desktop\Emre Can Ayar\SOLID\SOLID\DependencyInversionPrinciple\obj\Debug\net7.0\ref\DependencyInversionPrinciple.dll

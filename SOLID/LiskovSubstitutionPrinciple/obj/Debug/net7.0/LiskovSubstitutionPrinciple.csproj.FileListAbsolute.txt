@@ -1,0 +1,15 @@
+C:\Users\Emre Can Ayar\Desktop\Emre Can Ayar\SOLID\SOLID\LiskovSubstitutionPrinciple\bin\Debug\net7.0\LiskovSubstitutionPrinciple.exe
+C:\Users\Emre Can Ayar\Desktop\Emre Can Ayar\SOLID\SOLID\LiskovSubstitutionPrinciple\bin\Debug\net7.0\LiskovSubstitutionPrinciple.deps.json
+C:\Users\Emre Can Ayar\Desktop\Emre Can Ayar\SOLID\SOLID\LiskovSubstitutionPrinciple\bin\Debug\net7.0\LiskovSubstitutionPrinciple.runtimeconfig.json
+C:\Users\Emre Can Ayar\Desktop\Emre Can Ayar\SOLID\SOLID\LiskovSubstitutionPrinciple\bin\Debug\net7.0\LiskovSubstitutionPrinciple.dll
+C:\Users\Emre Can Ayar\Desktop\Emre Can Ayar\SOLID\SOLID\LiskovSubstitutionPrinciple\bin\Debug\net7.0\LiskovSubstitutionPrinciple.pdb
+C:\Users\Emre Can Ayar\Desktop\Emre Can Ayar\SOLID\SOLID\LiskovSubstitutionPrinciple\obj\Debug\net7.0\LiskovSubstitutionPrinciple.csproj.AssemblyReference.cache
+C:\Users\Emre Can Ayar\Desktop\Emre Can Ayar\SOLID\SOLID\LiskovSubstitutionPrinciple\obj\Debug\net7.0\LiskovSubstitutionPrinciple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emre Can Ayar\Desktop\Emre Can Ayar\SOLID\SOLID\LiskovSubstitutionPrinciple\obj\Debug\net7.0\LiskovSubstitutionPrinciple.AssemblyInfoInputs.cache
+C:\Users\Emre Can Ayar\Desktop\Emre Can Ayar\SOLID\SOLID\LiskovSubstitutionPrinciple\obj\Debug\net7.0\LiskovSubstitutionPrinciple.AssemblyInfo.cs
+C:\Users\Emre Can Ayar\Desktop\Emre Can Ayar\SOLID\SOLID\LiskovSubstitutionPrinciple\obj\Debug\net7.0\LiskovSubstitutionPrinciple.csproj.CoreCompileInputs.cache
+C:\Users\Emre Can Ayar\Desktop\Emre Can Ayar\SOLID\SOLID\LiskovSubstitutionPrinciple\obj\Debug\net7.0\LiskovSubstitutionPrinciple.dll
+C:\Users\Emre Can Ayar\Desktop\Emre Can Ayar\SOLID\SOLID\LiskovSubstitutionPrinciple\obj\Debug\net7.0\refint\LiskovSubstitutionPrinciple.dll
+C:\Users\Emre Can Ayar\Desktop\Emre Can Ayar\SOLID\SOLID\LiskovSubstitutionPrinciple\obj\Debug\net7.0\LiskovSubstitutionPrinciple.pdb
+C:\Users\Emre Can Ayar\Desktop\Emre Can Ayar\SOLID\SOLID\LiskovSubstitutionPrinciple\obj\Debug\net7.0\LiskovSubstitutionPrinciple.genruntimeconfig.cache
+C:\Users\Emre Can Ayar\Desktop\Emre Can Ayar\SOLID\SOLID\LiskovSubstitutionPrinciple\obj\Debug\net7.0\ref\LiskovSubstitutionPrinciple.dll
