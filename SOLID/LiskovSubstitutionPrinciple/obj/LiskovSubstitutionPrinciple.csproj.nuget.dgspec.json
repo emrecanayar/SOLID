@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Emre Can Ayar\\Desktop\\Emre Can Ayar\\SOLID\\SOLID\\SingleResponsiblityPrinciple\\SingleResponsiblityPrinciple.csproj": {}
+    "C:\\Users\\Emre Can Ayar\\Desktop\\Emre Can Ayar\\SOLID\\SOLID\\LiskovSubstitutionPrinciple\\LiskovSubstitutionPrinciple.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Emre Can Ayar\\Desktop\\Emre Can Ayar\\SOLID\\SOLID\\SingleResponsiblityPrinciple\\SingleResponsiblityPrinciple.csproj": {
+    "C:\\Users\\Emre Can Ayar\\Desktop\\Emre Can Ayar\\SOLID\\SOLID\\LiskovSubstitutionPrinciple\\LiskovSubstitutionPrinciple.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Emre Can Ayar\\Desktop\\Emre Can Ayar\\SOLID\\SOLID\\SingleResponsiblityPrinciple\\SingleResponsiblityPrinciple.csproj",
-        "projectName": "SingleResponsiblityPrinciple",
-        "projectPath": "C:\\Users\\Emre Can Ayar\\Desktop\\Emre Can Ayar\\SOLID\\SOLID\\SingleResponsiblityPrinciple\\SingleResponsiblityPrinciple.csproj",
+        "projectUniqueName": "C:\\Users\\Emre Can Ayar\\Desktop\\Emre Can Ayar\\SOLID\\SOLID\\LiskovSubstitutionPrinciple\\LiskovSubstitutionPrinciple.csproj",
+        "projectName": "LiskovSubstitutionPrinciple",
+        "projectPath": "C:\\Users\\Emre Can Ayar\\Desktop\\Emre Can Ayar\\SOLID\\SOLID\\LiskovSubstitutionPrinciple\\LiskovSubstitutionPrinciple.csproj",
         "packagesPath": "C:\\Users\\Emre Can Ayar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Emre Can Ayar\\Desktop\\Emre Can Ayar\\SOLID\\SOLID\\SingleResponsiblityPrinciple\\obj\\",
+        "outputPath": "C:\\Users\\Emre Can Ayar\\Desktop\\Emre Can Ayar\\SOLID\\SOLID\\LiskovSubstitutionPrinciple\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Emre Can Ayar\\AppData\\Roaming\\NuGet\\NuGet.Config",
